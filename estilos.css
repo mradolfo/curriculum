@@ -23,6 +23,9 @@ p{
 
 #datos{
     text-align: right;
+    background-image: url("dni adolfo.jpg");
+    background-repeat: no-repeat;
+    
 }
 #formacion{
     text-align: center;
