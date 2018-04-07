@@ -2,9 +2,16 @@
 
 
 body{
-    background-color: black;
-    color: white;
+    background-color: wheat;
+    color: black;
+    text-align: justify;
+    margin: 50px;
 }
+h1{
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
+
 h2{
     font-family: 'Press Start 2P', cursive;
 }
@@ -12,4 +19,19 @@ h2{
 p{
     margin: -5px;
     font-family: 'Nanum Gothic Coding', monospace;
+}
+
+#datos{
+    text-align: right;
+}
+#formacion{
+    text-align: center;
+    margin-left: 5%;
+}
+#complementos{
+    text-align: left;
+}
+strong{
+    color: black;
+
 }
