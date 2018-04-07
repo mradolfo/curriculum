@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding|Press+Start+2P');
+
+
+body{
+    background-color: black;
+    color: white;
+}
+h2{
+    font-family: 'Press Start 2P', cursive;
+}
+
+p{
+    margin: -5px;
+    font-family: 'Nanum Gothic Coding', monospace;
+}
