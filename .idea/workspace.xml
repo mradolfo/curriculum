@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3962d63b-e731-42c8-9d7c-23a5ff8ef9e8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/estilos.css" afterPath="$PROJECT_DIR$/estilos.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,8 +30,8 @@
       <file leaf-file-name="estilos.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/estilos.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+            <state relative-caret-position="761">
+              <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -132,12 +130,20 @@
       <workItem from="1522852150898" duration="1203000" />
       <workItem from="1523013208889" duration="7366000" />
       <workItem from="1523099814659" duration="73000" />
-      <workItem from="1523099946532" duration="2607000" />
+      <workItem from="1523099946532" duration="3551000" />
     </task>
+    <task id="LOCAL-00001" summary="curriculum_o.1">
+      <created>1523103240525</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523103240525</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11326000" />
+    <option name="totallyTimeSpent" value="12270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -167,6 +173,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="curriculum_o.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="curriculum_o.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -231,8 +241,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/estilos.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        <state relative-caret-position="761">
+          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
           <folding />
         </state>
       </provider>
