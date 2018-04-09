@@ -2,10 +2,12 @@
 
 
 body{
-    background-color: wheat;
     color: black;
     text-align: justify;
-    margin: 50px;
+    background-color:indianred;
+    max-width:700px;
+    text-align: justify;
+    margin:auto;
 }
 h1{
     text-align: center;
@@ -13,32 +15,33 @@ h1{
 }
 
 h2{
+    color: white;
     font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    font-size: 2em;
+    background-color:rgba(0,0,0,.8);
+    padding-bottom: .5em;
+    padding-top: .5em;
+    margin: 0;
 }
 
 p{
-    margin: -5px;
     font-family: 'Nanum Gothic Coding', monospace;
-}
-
-#datos{
-    text-align: right;
-    background-image: url("dni adolfo.jpg");
-    background-repeat: no-repeat;
-
-}
-#formacion{
+    color:black;
+    background-color:rgba(255,255,255,.8);
+    padding:1em;
+    max-width:700px;
     text-align: center;
-    margin-left: 5%;
+    margin: 0;
+    margin-bottom: 0;
 }
-#complementos{
-    text-align: left;
-}
+
 strong{
     color: black;
-
 }
 address {
     margin-top: 10px;
     height: 30px;
 }
+a{
+    color: crimson;}
